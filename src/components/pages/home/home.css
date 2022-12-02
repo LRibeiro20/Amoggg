@@ -7,7 +7,7 @@ h4{
     font-size: 24px;
 }
 
-.text-center{
+.information{
     margin-top: 5rem;
     background-color: orange;
 }
@@ -38,4 +38,25 @@ iframe{
     display: block;
     width: 100%;
     height: auto;
+  }
+
+  .img2020{
+    max-width: 100%;
+  }
+
+  .fbox-icon{
+    font-size: 60px;
+    
+  }
+
+  .feature-box {
+    position: relative;
+    padding: 0 0 0 80px;
+    text-align: left;
+  }
+  
+  
+
+  .feature-box.fbox-plain.fbox-dark .fbox-icon i, .feature-box.fbox-plain.fbox-dark .fbox-icon img {
+    color: #444;
   }

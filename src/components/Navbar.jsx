@@ -11,12 +11,12 @@ const Navbar = () => {
         </a>
 
         <ul className="nav nav-pills d-flex">
-          <li className="nav-item"><a href="#" className="nav-link active" aria-current="page">Inicio</a></li>
-          <li className="nav-item"><a href="#" className="nav-link">Sobre</a></li>
-          <li className="nav-item"><a href="#" className="nav-link">Publicacoes</a></li>
-          <li className="nav-item"><a href="#" className="nav-link">Noticias</a></li>
-          <li className="nav-item"><a href="#" className="nav-link">Saiba Mais</a></li>
-          <li className="nav-item"><a href="#" className="nav-link">Amog Club</a></li>
+          <li className="nav-item"><a href="/" className="nav-link active" aria-current="page">Inicio</a></li>
+          <li className="nav-item"><a href="/" className="nav-link">Sobre</a></li>
+          <li className="nav-item"><a href="/" className="nav-link">Publicacoes</a></li>
+          <li className="nav-item"><a href="/" className="nav-link">Noticias</a></li>
+          <li className="nav-item"><a href="/" className="nav-link">Saiba Mais</a></li>
+          <li className="nav-item"><a href="/" className="nav-link">Amog Club</a></li>
         </ul>
       </nav>
 

@@ -24,7 +24,7 @@ export class Owldemo1 extends Component {
         <div class="container-fluid">
           <OwlCarousel items={3} margin={30} className="owl-theme" loop nav>
             <div>
-              <img className="img" src={img10} />
+              <img className="img" src={img10} alt="" />
               <div className="title title-sm">
                 <h4 className="mt-3">
                 <strong>Nampula encerrou o ano de 2021 com Clarificação de Valores</strong>
@@ -60,7 +60,7 @@ export class Owldemo1 extends Component {
             </div>
 
             <div>
-              <img className="img" src={img11} />
+              <img className="img" src={img11} alt="" />
               <div className="title title-sm">
                 <h4 className="mt-3">
                   <strong>Cabo Delgado destaca insuficiência de material de trabalho para garantir serviços de qualidade</strong>
@@ -94,7 +94,7 @@ export class Owldemo1 extends Component {
               </p>
             </div>
             <div>
-              <img className="img" src={img12} />
+              <img className="img" src={img12} alt="" />
               <div className="title title-sm">
                 <h4 className="mt-3">
                   <strong>Boletim Informativo da AMOG - Edicao 3</strong>
@@ -132,7 +132,7 @@ export class Owldemo1 extends Component {
               </p>
             </div>
             <div>
-              <img className="img" src={img13} />
+              <img className="img" src={img13} alt=""/>
               <div className="title title-sm">
                 <h4 className="mt-3">
                   <strong>KaMaxaquene palco de palestra sobre violência baseada no género</strong>
@@ -166,7 +166,7 @@ export class Owldemo1 extends Component {
               </p>
             </div>
             <div>
-              <img className="img" src={img14} />
+              <img className="img" src={img14} alt=""/>
               <div className="title title-sm">
                 <h4 className="mt-3">
                   <strong>Pesquisa Clínica: Refinar o diagnóstico clínico com as razões de verosimilhança</strong>
@@ -200,7 +200,7 @@ export class Owldemo1 extends Component {
             </div>
             
             <div>
-              <img className="img" src={img15} />
+              <img className="img" src={img15} alt="" />
               <div className="title title-sm">
                 <h4 className="mt-3">
                   <strong>AMOG realiza a Décima Reunião da Assembleia Geral</strong>
